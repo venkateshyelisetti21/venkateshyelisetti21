@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [VENKATESH YELISETTI]
+### Hi there 👋, I'm ## [VENKATESH YELISETTI]
 
 ### About Me
 
@@ -24,13 +24,13 @@ skills, while making a significant contribution to the success of the company.
 [*Developed and deployed Machine learning models for Fashion Recommendation System.
 *Conducted in-Depth Analysis of customer behaviour and market trends to improve recommendations.
 *Implemented ethical data collection and processing practices to address privacy concerns of modern world.]
-- [[Link](https://github.com/venkateshyelisetti21/FASHION-RECOMMENDATION-SYSTEM-ML)](URL)
+- [[FASHION RECOMMENDATION SYSTEM](https://github.com/venkateshyelisetti21/FASHION-RECOMMENDATION-SYSTEM-ML)]
 
 #### [STUDENT PERFORMANCE PREDICTION]
 [*Implemented a set of ML algorithms to check the performance of the Student based on accuracies.
 *Experienced different accuracies while altering the testing and trainind dataset percentages.
 *Achieved efficient results of the performance of the students]
-- [[Link](https://github.com/venkateshyelisetti21/STUDENT-PERFORMANCE-PREDICTION)](URL)
+- [[STUDENT PERFORMANCE PREDICTION](https://github.com/venkateshyelisetti21/STUDENT-PERFORMANCE-PREDICTION)]
 
 
 ### CODING PROFILES
@@ -56,8 +56,3 @@ skills, while making a significant contribution to the success of the company.
 - [Travelling]
 - [Playing Cricket]
 
----
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
