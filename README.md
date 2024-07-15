@@ -1,4 +1,4 @@
-### Hi there 👋, I'm ## [VENKATESH YELISETTI]
+### Hi there 👋, I'm [VENKATESH YELISETTI]
 
 ### About Me
 
