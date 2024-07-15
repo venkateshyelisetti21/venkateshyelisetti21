@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm [VENKATESH YELISETTI]
 
-![Profile Views](https://github.com/venkateshyelisetti21)
-
 ### About Me
 
 ##Career Objective
@@ -37,9 +35,9 @@ skills, while making a significant contribution to the success of the company.
 
 ### CODING PROFILES
 
-##[LeetCode](https://leetcode.com/venkateshyelisetti/)
-##[GFG](https://auth.geeksforgeeks.org/user/venkatesh_y/practice)
-##[Codechef](https://www.codechef.com/users/venkatesh_y)
+## [LeetCode](https://leetcode.com/venkateshyelisetti/)
+## [GFG](https://auth.geeksforgeeks.org/user/venkatesh_y/practice)
+## [Codechef](https://www.codechef.com/users/venkatesh_y)
 
 
 
@@ -60,5 +58,6 @@ skills, while making a significant contribution to the success of the company.
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=react-dark)
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
