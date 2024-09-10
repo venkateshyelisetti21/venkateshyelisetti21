@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm VENKATESH YELISETTI
 
-# ABOUT ME
-
 # CAREER OBJECTIVE
 
 To be an efficacious and a certified global consultant in a progressive organization which enables me to fully utilize my
@@ -30,8 +28,6 @@ skills, while making a significant contribution to the success of the company.
 - **Additional Technical Skills:** I have strong proficiency in frontend technologies such as HTML, CSS, JavaScript, and Flexbox. Additionally, I am adept at working with backend languages such as C++, Python, and SQL.
 - **Development Environments:** Skilled in using popular development environments, including Visual Studio Code, Jupyter Notebook, and Spyder for seamless coding experiences.
 - **Programming Passion:** Driven by a passion for programming, I have solved numerous complex challenges on platforms like LeetCode and GeeksforGeeks, which has sharpened my problem-solving skills.
-- **How to Reach Me:** For any collaboration or inquiries, feel free to contact me at venkyvenkatesh3210@gmail.com.
-- **Connect with me on**  [LinkedIn](https://www.linkedin.com/in/venkatesh-yelisetti-bbb0a9274/)
 
 # SKILLS
 
@@ -57,6 +53,31 @@ skills, while making a significant contribution to the success of the company.
     Experience in solving complex problems on coding platforms like LeetCode and GeeksforGeeks
 
     Proficient in SQL and database management
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
 
 # PROJECTS
 
@@ -103,9 +124,26 @@ Optimized application performance through efficient DOM manipulation , resulting
 
 # CODING PROFILES
 
- ## [LeetCode](https://leetcode.com/venkateshyelisetti/)
- ## [GFG](https://auth.geeksforgeeks.org/user/venkatesh_y/practice)
- ## [CodeChef](https://www.codechef.com/users/venkatesh_y)
+ ## LeetCode
+ [![Venky's LeetCode stats](https://leetcard.jacoblin.cool/venkateshyelisetti?theme=dark)](https://leetcode.com/venkateshyelisetti/)
+ ## GeekForGeeks
+ [![Venky's GeeksforGeeks stats](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/venkatesh_y/practice)
+
+ ## CodeChef
+[![CodeChef](https://img.shields.io/badge/CodeChef-gray?&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/venkatesh_y)
+
+# GITHUB STATS
+
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=venkateshyelisetti21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkateshyelisetti21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=venkateshyelisetti21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 
 
@@ -115,3 +153,29 @@ Optimized application performance through efficient DOM manipulation , resulting
 - **Phone No. :** +91 84649 64555
 - **Address :** 1-205, Opposite to CGG Bank, Kadrakota, Peddapuram, Kakinada, Andhra Pradesh, India, 533437.
 
+
+
+
+
+## Contact me through:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/venkatesh-yelisetti/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Venky_3210" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/im_venkyy_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:venkyvenkatesh3210@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/venky_valentine" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/918464964555" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
