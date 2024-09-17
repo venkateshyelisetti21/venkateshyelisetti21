@@ -119,6 +119,10 @@ Optimized application performance through efficient DOM manipulation , resulting
 ### [Addition Game](https://github.com/venkateshyelisetti21/FRONTEND-MINIPROJECTS/tree/main/Addition%20Game)
 ### [BUTTON MAKER](https://github.com/venkateshyelisetti21/FRONTEND-MINIPROJECTS/tree/main/Button%20Maker)
 ### [RANDOM COLOR GENERATOR](https://github.com/venkateshyelisetti21/FRONTEND-MINIPROJECTS/tree/main/Random%20Color%20Generator)
+### [COUNTER APPLICATION](https://github.com/venkateshyelisetti21/FRONTEND-MINIPROJECTS/tree/main/Counter%20Application)
+### [MOVIE REVIEWS](https://github.com/venkateshyelisetti21/FRONTEND-MINIPROJECTS/tree/main/Movie%20Reviews)
+### [SPLICE PLAYGROUND](https://github.com/venkateshyelisetti21/FRONTEND-MINIPROJECTS/tree/main/SPLICE%20PLAYGROUND)
+### [CHATBOT](https://github.com/venkateshyelisetti21/FRONTEND-MINIPROJECTS/tree/main/Chatbot)
 
 
 
