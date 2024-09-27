@@ -7,10 +7,6 @@ skills, while making a significant contribution to the success of the company.
 
 # Education
 
-- **M.Tech:**
-
-  CSE-AiMl, Pydah college of Engineering, 2024-Present
-- **B.Tech:**
 
   ECE, Aditya college of Engineering, 2020-2024
 - **CBSE Intermediate:**
