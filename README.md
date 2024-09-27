@@ -7,7 +7,8 @@ skills, while making a significant contribution to the success of the company.
 
 # Education
 
-
+- **Bachelor of Technology:**
+ 
   ECE, Aditya college of Engineering, 2020-2024
 - **CBSE Intermediate:**
 
